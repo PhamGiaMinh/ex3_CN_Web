@@ -1,0 +1,8 @@
+node_modules/
+.env
+# tài liệu môn học, ghi chú cá nhân, báo cáo nộp riêng
+Đề bài khóa cũ/
+docs/
+bao-cao/
+.claude/
+CLAUDE.md
